@@ -19,3 +19,13 @@
         <span class="badge">Database:</span> MongoDB (Mongoose ODM)<br>
         <span class="badge">Auth:</span> Passport.js
     </p>
+<h2>Screenshots :</h2>
+<img src = "./homepage.png">
+<img src = "./signup.png">
+<img src = "./login.png">
+<img src = "./addplace.png">
+<img src = "./lisiting.png">
+<img src = "./review.png">
+<h2>Contributors :</h2>
+<li>Yashwardhan singh (Github : yashmnit)</li>
+<li>Dharak Upadhyay (Github : dharak1975)</li>
